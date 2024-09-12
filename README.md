@@ -1,4 +1,4 @@
-Nextcloud auf Dockerumgebung
+# Nextcloud auf Dockerumgebung:
 
 1. name der **domäne** ändern in **.env** und **docker-compose.yml** container: web
 
